@@ -30,4 +30,4 @@ Project is: _closed_
 
 ## Credits
 * Programer - Marcin "AkaiTobira" Data
-Graphics was downloaded from unity store.
+* Graphics was downloaded from unity store.
