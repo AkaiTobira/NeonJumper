@@ -14,8 +14,8 @@
 
 ## Screenshots
 ![Alt text](/Assets/Screens/TitleScreen.PNG?raw=true "Optional Title")
-![Alt text](/Assets/Screens/6.PNG.PNG?raw=true "Optional Title")
-![Alt text](/Assets/Screens/GameOverScreen.PNG.PNG?raw=true "Optional Title")
+![Alt text](/Assets/Screens/6.PNG?raw=true "Optional Title")
+![Alt text](/Assets/Screens/GameOverScreen.PNG?raw=true "Optional Title")
 
 ## Project status
 
