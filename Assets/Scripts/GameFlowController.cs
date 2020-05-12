@@ -12,8 +12,8 @@ public class GameFlowController : MonoBehaviour
     [SerializeField] Text             endWindowScoreDisplayer = null;
     [SerializeField] Transform        endWindow               = null;
 
-    private int MAX_NUMBER_OF_LIFES = 3;
-    private int numberOfLives = 3;
+    private int MAX_NUMBER_OF_LIFES = 5;
+    private int numberOfLives = 5;
     private int score         = 0;
 
     void Start() {
@@ -21,7 +21,7 @@ public class GameFlowController : MonoBehaviour
         UpdatePlayerLifesHUD();
     }
 
-    public void GameOver(){
+    private void GameOver(){
         endWindow.GetComponent<Animation>().Play();
         player.DeletePlayer();
         numberOfLives = 0;
