@@ -19,7 +19,7 @@
 
 ## Project status
 
-Project is: _closed_
+Project is: _in develpoment_
 
 ## Controlls
  *   A/Arrow Left    -> Move Left
