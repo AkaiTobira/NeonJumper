@@ -21,9 +21,11 @@ public class GameFlowController : MonoBehaviour
         UpdatePlayerLifesHUD();
     }
 
-    private void GameOver(){
+    public void GameOver(){
         endWindow.GetComponent<Animation>().Play();
         player.DeletePlayer();
+        numberOfLives = 0;
+        UpdatePlayerLifesHUD();
     }
 
     private void UpdatePlayerLifesHUD(){

@@ -54,7 +54,6 @@ public class PlayerController : MonoBehaviour
 
     private void JumpAndSavePositionOnPlatform(){
         velocity.y        = jumpVelocity;
-        GetComponent<PlayerSaver>().Save();
     }
 
     public bool isFallKeyPressed(){
