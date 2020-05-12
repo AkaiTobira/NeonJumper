@@ -10,11 +10,12 @@
 * [Credits](#credits)
 
 ## General info
- NeonJumper is simple prototype of platormer game, created for educational reasons. In game you have to get as high as possible score by destroying drons. During game you can climb on the leaders and destroy robots by jumping on their heads.
+ NeonJumper is simple prototype of platormer game, created for educational reasons. In game you have to get as high as possible score by destroying drons. During game you can climb on the leaders and destroy robots by jumping on their heads. You can also collect points by gathering holographs which are placed almost everywhere :)
 
 ## Screenshots
 ![Alt text](/Assets/Screens/TitleScreen.PNG?raw=true "Optional Title")
 ![Alt text](/Assets/Screens/6.PNG?raw=true "Optional Title")
+![Alt text](/Assets/Screens/10.PNG?raw=true "Optional Title")
 ![Alt text](/Assets/Screens/GameOverScreen.PNG?raw=true "Optional Title")
 
 ## Project status
